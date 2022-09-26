@@ -1,3 +1,3 @@
-#!/usr/bin/python3
-for l in range(ord('a'), ord('z') + 1):
-print("{:}".format(l), end='')
+#!/usr/bin/python
+for alphabet in range(97, 123):
+    print("{:}".format(alphabet), end='')
